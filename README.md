@@ -49,6 +49,7 @@ $ npm install
 * **Step 1:** Fork loklak_search repository and clone it to your desktop
 * **Step 2:** Then cd into that cloned folder
 * **Step 3:** Deploy locally by running this:```$ ng serve```
+* **Step 4:** Go to localhost:4200 where the application will be running locally.
 
 #### How to use ngrx/StoreDevtools?
 * **Step 1:** Install the `Redux Devtools` [extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en-US).
